@@ -75,7 +75,9 @@ The project includes the following key visualizations:
 - Customer Distribution Across RFM Segments
 <img width="4752" height="2952" alt="customer_distribution_by_segment" src="https://github.com/user-attachments/assets/048e69b9-90d4-49de-938e-22abd16a4dbe" />
 Shows how customers are spread across segments.
+
 ---
+
 - Revenue Contribution by Segment
 <img width="4752" height="2952" alt="Revenue_share_by_segment" src="https://github.com/user-attachments/assets/b3900ce5-c6f1-430c-913c-bc8c96860710" />
 shows which customer segments drive the most revenue.
