@@ -115,7 +115,7 @@ This project demonstrates how RFM analysis can transform raw transaction data in
 
 ```bash
 ├── images/            # Visualizations             
-├──README.md/           
+├── README.md/           
 ├── data/               # Dataset files 
 ├── notebooks           # Jupyter notebooks
 
