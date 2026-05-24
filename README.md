@@ -100,6 +100,7 @@ The project includes the following key visualizations:
 └── requirements.txt
 
 ---
-## 🛠️ Conclusion
+
+## Conclusion
 
 This project demonstrates how RFM analysis can transform raw transaction data into clear business insights for customer segmentation and decision-making.
