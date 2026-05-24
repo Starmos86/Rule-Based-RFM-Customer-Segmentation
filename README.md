@@ -114,10 +114,9 @@ This project demonstrates how RFM analysis can transform raw transaction data in
 ## 📁 Repository Structure
 
 ```bash
-├── data/                # Dataset files
-├── notebooks/           # Jupyter notebooks
-├── images/              # Visualizations
-├── README.md
-└── requirements.txt
+├── images/            # Visualizations             
+├──README.md/           
+├── data/               # Dataset files 
+├── notebooks           # Jupyter notebooks
 
 
