@@ -87,6 +87,7 @@ shows which customer segments drive the most revenue.
 - Average RFM Scores by Segment
 <img width="4752" height="2952" alt="heatmap" src="https://github.com/user-attachments/assets/538bb1d2-5a7a-48f7-9b98-3541bb515335" />
 shows the RFM  average values by segment.
+
 ---
 
 - Pareto (80/20) Revenue Analysis  
