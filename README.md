@@ -90,6 +90,10 @@ The project includes the following key visualizations:
 
 ---
 
+## Conclusion
+
+This project demonstrates how RFM analysis can transform raw transaction data into clear business insights for customer segmentation and decision-making.
+
 ## 📁 Repository Structure
 
 ```bash
@@ -99,8 +103,4 @@ The project includes the following key visualizations:
 ├── README.md
 └── requirements.txt
 
----
 
-## Conclusion
-
-This project demonstrates how RFM analysis can transform raw transaction data into clear business insights for customer segmentation and decision-making.
