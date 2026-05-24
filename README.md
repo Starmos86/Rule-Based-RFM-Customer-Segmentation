@@ -81,14 +81,18 @@ Shows how customers are spread across segments.
 - Revenue Contribution by Segment
 <img width="4752" height="2952" alt="Revenue_share_by_segment" src="https://github.com/user-attachments/assets/b3900ce5-c6f1-430c-913c-bc8c96860710" />
 shows which customer segments drive the most revenue.
+
 ---
+
 - Average RFM Scores by Segment
 <img width="4752" height="2952" alt="heatmap" src="https://github.com/user-attachments/assets/538bb1d2-5a7a-48f7-9b98-3541bb515335" />
 
 ---
+
 - Pareto (80/20) Revenue Analysis  
 <img width="4752" height="2952" alt="Pareto" src="https://github.com/user-attachments/assets/3cb91331-e969-4590-b570-bdbd1aea5739" />
 Highlights revenue concentration across customers.
+
 ---
 
 ## 🛠️ Technologies Used
