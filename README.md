@@ -72,10 +72,19 @@ The project identifies the following customer groups:
 
 The project includes the following key visualizations:
 
-- Customer Distribution Across RFM Segments  
-- Revenue Contribution by Segment  
-- Average RFM Scores by Segment  
+- Customer Distribution Across RFM Segments
+<img width="4752" height="2952" alt="customer_distribution_by_segment" src="https://github.com/user-attachments/assets/048e69b9-90d4-49de-938e-22abd16a4dbe" />
+
+
+- Revenue Contribution by Segment
+<img width="4752" height="2952" alt="Revenue_share_by_segment" src="https://github.com/user-attachments/assets/b3900ce5-c6f1-430c-913c-bc8c96860710" />
+
+- Average RFM Scores by Segment
+<img width="4752" height="2952" alt="heatmap" src="https://github.com/user-attachments/assets/538bb1d2-5a7a-48f7-9b98-3541bb515335" />
+
+
 - Pareto (80/20) Revenue Analysis  
+<img width="4752" height="2952" alt="Pareto" src="https://github.com/user-attachments/assets/3cb91331-e969-4590-b570-bdbd1aea5739" />
 
 ---
 
