@@ -79,7 +79,7 @@ The project includes the following key visualizations:
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tools Used
 
 - Python  
 - Pandas  
@@ -96,5 +96,11 @@ The project includes the following key visualizations:
 ├── data/                # Dataset files
 ├── notebooks/           # Jupyter notebooks
 ├── images/              # Visualizations
+
+---
+
+## Conclusion
+
+This project demonstrates how RFM analysis can transform raw transaction data into clear business insights for customer segmentation and decision-making.
 ├── README.md
 └── requirements.txt
