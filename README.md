@@ -1,4 +1,4 @@
-# Customer Segmentation Analysis Using RFM Framework
+# Rule-based Customer Segmentation Analysis Using RFM Framework
 
 ## 📊 Project Overview
 
