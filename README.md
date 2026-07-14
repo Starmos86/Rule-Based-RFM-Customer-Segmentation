@@ -94,6 +94,9 @@ shows the RFM  average values by segment.
 <img width="4752" height="2952" alt="Pareto" src="https://github.com/user-attachments/assets/3cb91331-e969-4590-b570-bdbd1aea5739" />
 Highlights revenue concentration across customers.
 
+
+- Revenue by Segment 
+
 ---
 
 ## 🛠️ Technologies Used
