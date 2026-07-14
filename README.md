@@ -114,9 +114,9 @@ This project demonstrates how RFM analysis can transform raw transaction data in
 ## 📁 Repository Structure
 
 ```bash
-├── images/            # Visualizations             
-├── README.md/           
-├── data/               # Dataset files 
-├── notebooks           # Jupyter notebooks
+├── RFM Customer Segmentation Project.ipynb   # Jupyter notebook
+├── README.md
+├── data/                                      # Dataset files
+└── images/                                    # Visualizations
 
 
